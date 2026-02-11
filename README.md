@@ -1,5 +1,7 @@
 # Hi, I'm Avinash 👋
 
+author Avinash pradhan
+
 🚀 Founder in Progress  
 💻 Flutter & Firebase Developer  
 🧠 Exploring AI & System Building  
