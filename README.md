@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Avinash 👋
+
+🚀 Founder in Progress  
+💻 Flutter & Firebase Developer  
+🧠 Exploring AI & System Building  
+
+Currently Building:
+- Midnight Café (MVP)
+- AI Companion Mode
+- Chat + Wallet System
+
+Learning. Building. Scaling.
+
 
 <!--
 **heyavinash-in/heyavinash-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
