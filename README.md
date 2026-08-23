@@ -1,4 +1,4 @@
-# Hi, I'm Avinash 👋
+# Hi, I'm Avinash 
 
 Author Avinash pradhan
 
